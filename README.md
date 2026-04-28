@@ -6,22 +6,22 @@
 
 ---
 
-### 🚀 Sobre Mim
-Desenvolvedor focado em infraestrutura de alta performance e criação de linguagens. Criador da **Typeyts**, uma linguagem projetada para otimização extrema.
+### 🚀 About Me
+Developer focused on high-performance infrastructure and language creation. Creator of **Typeyts**, a programming language designed for extreme optimization.
 
 By: RaihNoDev
 
 ---
 
-### 📁 Projetos Atuais
+### 📁 Current Projects
 
-*   **Typeyts Language**: Compilador e ecossistema de alto desempenho.
-*   **Void Applications**: Soluções modulares para comunidades.
-*   **Voidless**: Infraestrutura e tecnologia avançada.
+*   **Typeyts Language**: High-performance compiler and ecosystem.
+*   **Void Applications**: Modular solutions for large-scale communities.
+*   **Voidless**: Advanced infrastructure and security research.
 
 ---
 
-### 🌐 Comunidades
+### 🌐 Communities
 
 *   **27M Vazamentos**: [Discord Link](https://discord.gg/zgrmE7vmze)
 *   **Void Applications**: [Discord Link](https://discord.gg/gSmWMf6b2)
@@ -29,7 +29,7 @@ By: RaihNoDev
 
 ---
 
-### 💻 Tech Stack e Linguagens
+### 💻 Tech Stack & Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -45,7 +45,7 @@ By: RaihNoDev
 
 ---
 
-### 📊 Estatisticas de Linguagem
+### 📊 Language Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihNodev2&layout=compact&theme=tokyonight" alt="Top Langs" />
@@ -54,8 +54,8 @@ By: RaihNoDev
 ---
 
 <div align="center">
-  <p><i>Otimizacao nao e apenas um objetivo, e um estilo de vida.</i></p>
+  <p><i>Optimization is not just a goal, it's a lifestyle.</i></p>
   <a href="https://github.com/RaihNodev2">
-    <img src="https://img.shields.io/github/followers/RaihNodev2?label=Seguir&style=social" />
+    <img src="https://img.shields.io/github/followers/RaihNodev2?label=Follow&style=social" />
   </a>
 </div>
