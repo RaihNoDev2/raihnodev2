@@ -1,61 +1,57 @@
-# 👋 RaihNodev
+# RaihNoDev
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaihNodev2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+### Software Developer · Systems · Infrastructure
+
+Building high-performance software, developer tools and scalable infrastructure.
+
+[![GitHub](https://img.shields.io/badge/GitHub-RaihNodev2-181717?style=flat-square\&logo=github)](https://github.com/RaihNodev2)
+[![Discord](https://img.shields.io/badge/Discord-NextCode-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.gg/nextcode)
+
 </div>
 
 ---
 
-### 🚀 About Me
-Developer focused on high-performance infrastructure and language creation. Creator of **Typeyts**, a programming language designed for extreme optimization.
+## About
 
-By: RaihNoDev
+I'm a software developer focused on **performance, infrastructure and developer tooling**.
 
----
+Currently working with systems programming, backend architecture, compilers and programming language development.
 
-### 📁 Current Projects
+**Creator of Typeyts**, a programming language and compiler project focused on performance and optimization.
 
-*   **Typeyts Language**: High-performance compiler and ecosystem.
-*   **Void Applications**: Modular solutions for large-scale communities.
-*   **Voidless**: Advanced infrastructure and security research.
+**Company:** NextCode Applications
+**Community:** [discord.gg/nextcode](https://discord.gg/nextcode)
 
 ---
 
-### 🌐 Communities
+## Current Project
 
-*   **27M Vazamentos**: [Discord Link](https://discord.gg/zgrmE7vmze)
-*   **Void Applications**: [Discord Link](https://discord.gg/gSmWMf6b2)
-*   **Voidless**: [Discord Link](https://discord.gg/gAMA9SpMA3)
+### NextCode Applications
 
----
+NextCode is a software company focused on building **scalable applications, infrastructure and developer-focused solutions**.
 
-### 💻 Tech Stack & Languages
+Our goal is to create reliable and high-performance software designed for modern online communities and digital platforms.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Typeyts-FF4444?style=for-the-badge" />
-</p>
+**Discord:** [discord.gg/nextcode](https://discord.gg/nextcode)
 
 ---
 
-### 📊 Language Stats
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihNodev2&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RaihNodev2&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihNodev2&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
 <div align="center">
-  <p><i>Optimization is not just a goal, it's a lifestyle.</i></p>
-  <a href="https://github.com/RaihNodev2">
-    <img src="https://img.shields.io/github/followers/RaihNodev2?label=Follow&style=social" />
-  </a>
+
+<i>Build fast. Build reliable. Build something that matters.</i>
+
 </div>
