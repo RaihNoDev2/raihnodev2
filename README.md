@@ -38,18 +38,6 @@ Our goal is to create reliable and high-performance software designed for modern
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RaihNodev2&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihNodev2&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 <i>Build fast. Build reliable. Build something that matters.</i>
