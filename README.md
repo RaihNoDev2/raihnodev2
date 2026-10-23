@@ -1,90 +1,159 @@
 
 <div align="center">
 
-<img src="https://blob.squarecloud.dev/pub/e7f9f70ccbb0f2e5b81cd022019f8a07cd7c97c3/BannerValence.png" alt="Valence Applications" width="100%"/>
+<img src="https://blob.squarecloud.dev/pub/e7f9f70ccbb0f2e5b81cd022019f8a07cd7c97c3/BannerValence.png" width="100%" alt="Valence Applications"/>
 
-# RaihNoDev
+<br/>
 
-### Software Developer · Systems · Infrastructure
+<a href="https://github.com/RaihNodev2">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=FF203A&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+RaihNoDev.;Software+%26+Systems+Developer;Building+the+next+generation.;Performance.+Precision.+Innovation." alt="Typing Animation"/>
+</a>
 
-**Building high-performance software, developer tools and scalable infrastructure.**
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-RaihNodev2-181717?style=for-the-badge&logo=github)](https://github.com/RaihNodev2)
-[![Discord](https://img.shields.io/badge/Discord-Valence_Applications-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6BDacTNmNK)
+<img src="https://komarev.com/ghpvc/?username=RaihNodev2&style=for-the-badge&color=dc143c&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+<a href="https://github.com/RaihNodev2">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://discord.gg/6BDacTNmNK">
+<img src="https://img.shields.io/badge/DISCORD-DC143C?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## Who Am I?
+### `01` — WHO AM I?
 
-I'm **RaihNoDev**, a software developer focused on building efficient, scalable and reliable software solutions.
+```typescript
+const developer = {
+  name: "RaihNoDev",
+  role: "Software Developer",
+  company: "Valence Applications",
 
-My main interests include **systems programming, backend architecture, infrastructure, compilers and developer tooling**.
+  interests: [
+    "Systems Programming",
+    "Backend Engineering",
+    "Infrastructure",
+    "Compiler Development",
+    "Developer Tooling"
+  ],
 
-I enjoy exploring complex technologies, optimizing performance and transforming ambitious ideas into real-world applications.
+  projects: {
+    language: "Typeyts",
+    organization: "Valence Applications"
+  },
 
-**Creator of Typeyts**, a programming language and compiler project focused on performance, optimization and modern software development.
+  philosophy: "Build beyond expectations."
+};
+```
 
-- **Company:** Valence Applications
-- **Role:** Software Developer
-- **Focus:** Systems, Infrastructure & Performance
-- **Community:** [Valence Applications](https://discord.gg/6BDacTNmNK)
+I'm a developer passionate about **low-level systems, performance engineering and scalable software architecture**.
+
+I build tools, applications and infrastructure with a focus on efficiency, reliability and long-term scalability.
 
 ---
 
-## What I'm Building
-
-### Valence Applications
-
-**Valence Applications** is a software development company focused on creating modern applications, scalable infrastructure and innovative developer solutions.
-
-Our mission is to deliver **reliable, efficient and high-performance software** for digital platforms, online communities and modern businesses.
-
-We believe great software should combine **performance, simplicity and innovation**.
-
-[![Join Community](https://img.shields.io/badge/Join_Our_Community-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6BDacTNmNK)
-
----
-
-## Technologies & Tools
+### `02` — THE ECOSYSTEM
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h3>VALENCE APPLICATIONS</h3>
+
+**Engineering software beyond the ordinary.**
+
+Modern applications. Scalable infrastructure. Powerful developer tools.
+
+<a href="https://discord.gg/6BDacTNmNK">
+<img src="https://img.shields.io/badge/EXPLORE_THE_COMMUNITY-DC143C?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<h3>TYPEYTS</h3>
+
+**Programming Language & Compiler Project**
+
+A programming language and compiler project exploring performance, optimization and modern language design.
 
 </div>
 
 ---
 
-## GitHub Statistics
+### `03` — TECHNOLOGY STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaihNodev2&show_icons=true&theme=transparent&title_color=ED1C24&icon_color=ED1C24&text_color=888888&hide_border=true" height="165"/>
+**LANGUAGES**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihNodev2&layout=compact&theme=transparent&title_color=ED1C24&text_color=888888&hide_border=true" height="165"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,python,lua&theme=dark" alt="Programming Languages"/>
+
+<br/><br/>
+
+**BACKEND & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,nginx,git&theme=dark" alt="Backend and Infrastructure"/>
+
+<br/><br/>
+
+**DEVELOPMENT ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,windows&theme=dark" alt="Development Environment"/>
 
 </div>
 
 ---
 
+### `04` — GITHUB ANALYTICS
+
 <div align="center">
 
-### Connect With Me
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaihNodev2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF203A&icon_color=FF203A&text_color=C9D1D9&ring_color=FF203A" alt="GitHub Stats"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaihNodev2)
-[![Discord](https://img.shields.io/badge/Discord-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6BDacTNmNK)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihNodev2&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF203A&text_color=C9D1D9" alt="Top Languages"/>
 
-*Build fast. Build reliable. Build something that matters.*
+<br/><br/>
 
-**© Valence Applications**
+<img src="https://streak-stats.demolab.com?user=RaihNodev2&theme=dark&hide_border=true&background=0D1117&ring=FF203A&fire=FF203A&currStreakLabel=FF203A" alt="GitHub Streak"/>
 
 </div>
+
+---
+
+### `05` — CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaihNodev2&bg_color=0D1117&color=FF203A&line=FF203A&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+### `06` — CONNECT
+
+<div align="center">
+
+**Have an idea? Let's build something extraordinary.**
+
+<a href="https://github.com/RaihNodev2">
+<img src="https://img.shields.io/badge/GITHUB-RaihNodev2-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/6BDacTNmNK">
+<img src="https://img.shields.io/badge/DISCORD-VALENCE_APPLICATIONS-DC143C?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:990015,100:FF203A&height=120&section=footer" width="100%" alt="Footer"/>
+
+**RAIHNODEV © 2026**
+
+*Code with purpose. Engineer with precision.*
+
+</div>
+v
