@@ -1,45 +1,90 @@
-# RaihNoDev
-
+ 
 <div align="center">
+
+<img src="./BannerValence.png" alt="Valence Applications" width="100%"/>
+
+# RaihNoDev
 
 ### Software Developer · Systems · Infrastructure
 
-Building high-performance software, developer tools and scalable infrastructure.
+**Building high-performance software, developer tools and scalable infrastructure.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-RaihNodev2-181717?style=flat-square\&logo=github)](https://github.com/RaihNodev2)
-[![Discord](https://img.shields.io/badge/Discord-NextCode-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.gg/nextcode)
+[![GitHub](https://img.shields.io/badge/GitHub-RaihNodev2-181717?style=for-the-badge&logo=github)](https://github.com/RaihNodev2)
+[![Discord](https://img.shields.io/badge/Discord-Valence_Applications-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bJ2SEnrHC5)
 
 </div>
 
 ---
 
-## About
+## Who Am I?
 
-I'm a software developer focused on **performance, infrastructure and developer tooling**.
+I'm **RaihNoDev**, a software developer focused on building efficient, scalable and reliable software solutions.
 
-Currently working with systems programming, backend architecture, compilers and programming language development.
+My main interests include **systems programming, backend architecture, infrastructure, compilers and developer tooling**.
 
-**Creator of Typeyts**, a programming language and compiler project focused on performance and optimization.
+I enjoy exploring complex technologies, optimizing performance and transforming ambitious ideas into real-world applications.
 
-**Company:** NextCode Applications
-**Community:** [discord.gg/nextcode](https://discord.gg/nextcode)
+**Creator of Typeyts**, a programming language and compiler project focused on performance, optimization and modern software development.
+
+- **Company:** Valence Applications
+- **Role:** Software Developer
+- **Focus:** Systems, Infrastructure & Performance
+- **Community:** [Valence Applications](https://discord.gg/bJ2SEnrHC5)
 
 ---
 
-## Current Project
+## What I'm Building
 
-### NextCode Applications
+### Valence Applications
 
-NextCode is a software company focused on building **scalable applications, infrastructure and developer-focused solutions**.
+**Valence Applications** is a software development company focused on creating modern applications, scalable infrastructure and innovative developer solutions.
 
-Our goal is to create reliable and high-performance software designed for modern online communities and digital platforms.
+Our mission is to deliver **reliable, efficient and high-performance software** for digital platforms, online communities and modern businesses.
 
-**Discord:** [discord.gg/nextcode](https://discord.gg/nextcode)
+We believe great software should combine **performance, simplicity and innovation**.
+
+[![Join Community](https://img.shields.io/badge/Join_Our_Community-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bJ2SEnrHC5)
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaihNodev2&show_icons=true&theme=transparent&title_color=ED1C24&icon_color=ED1C24&text_color=888888&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihNodev2&layout=compact&theme=transparent&title_color=ED1C24&text_color=888888&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<i>Build fast. Build reliable. Build something that matters.</i>
+### Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaihNodev2)
+[![Discord](https://img.shields.io/badge/Discord-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bJ2SEnrHC5)
+
+*Build fast. Build reliable. Build something that matters.*
+
+**© Valence Applications**
 
 </div>
