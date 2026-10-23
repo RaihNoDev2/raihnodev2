@@ -1,7 +1,7 @@
- 
+
 <div align="center">
 
-<img src="./BannerValence.png" alt="Valence Applications" width="100%"/>
+<img src="https://blob.squarecloud.dev/pub/e7f9f70ccbb0f2e5b81cd022019f8a07cd7c97c3/BannerValence.png" alt="Valence Applications" width="100%"/>
 
 # RaihNoDev
 
@@ -10,7 +10,7 @@
 **Building high-performance software, developer tools and scalable infrastructure.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-RaihNodev2-181717?style=for-the-badge&logo=github)](https://github.com/RaihNodev2)
-[![Discord](https://img.shields.io/badge/Discord-Valence_Applications-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bJ2SEnrHC5)
+[![Discord](https://img.shields.io/badge/Discord-Valence_Applications-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6BDacTNmNK)
 
 </div>
 
@@ -29,7 +29,7 @@ I enjoy exploring complex technologies, optimizing performance and transforming 
 - **Company:** Valence Applications
 - **Role:** Software Developer
 - **Focus:** Systems, Infrastructure & Performance
-- **Community:** [Valence Applications](https://discord.gg/bJ2SEnrHC5)
+- **Community:** [Valence Applications](https://discord.gg/6BDacTNmNK)
 
 ---
 
@@ -43,7 +43,7 @@ Our mission is to deliver **reliable, efficient and high-performance software** 
 
 We believe great software should combine **performance, simplicity and innovation**.
 
-[![Join Community](https://img.shields.io/badge/Join_Our_Community-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bJ2SEnrHC5)
+[![Join Community](https://img.shields.io/badge/Join_Our_Community-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6BDacTNmNK)
 
 ---
 
@@ -81,7 +81,7 @@ We believe great software should combine **performance, simplicity and innovatio
 ### Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaihNodev2)
-[![Discord](https://img.shields.io/badge/Discord-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bJ2SEnrHC5)
+[![Discord](https://img.shields.io/badge/Discord-ED1C24?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6BDacTNmNK)
 
 *Build fast. Build reliable. Build something that matters.*
 
